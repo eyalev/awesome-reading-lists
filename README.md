@@ -8,6 +8,7 @@
 - Jason Evanish: https://jasonevanish.com/books
 - Josh Kaufman: https://personalmba.com/best-business-books
 - Nat Eliason: https://www.nateliason.com/notes
+- Patrick Collison: https://patrickcollison.com/bookshelf
 - Radek Pietruszewski: http://radex.io/books
 - Rakhim Davletkaliyev: https://rakhim.org/bookshelf
 - Shane Parrish: https://fs.blog/reading
