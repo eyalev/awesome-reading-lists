@@ -1,6 +1,7 @@
 
 # Awesome Book Lists
 
+- Alexey Migutsky: https://github.com/mr-mig/booklist
 - Bill Gates: https://www.gatesnotes.com/Books#BooksRead
 - Derek Sivers: https://sivers.org/book
 - Jason Evanish: https://jasonevanish.com/books/
