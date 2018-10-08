@@ -10,4 +10,5 @@
 - Nat Eliason: https://www.nateliason.com/notes
 - Radek Pietruszewski: http://radex.io/books
 - Rakhim Davletkaliyev: https://rakhim.org/bookshelf
+- Shane Parrish: https://fs.blog/reading
 - Warren Buffett: [Warren Buffett Book List](/lists/warren_buffett.md)
