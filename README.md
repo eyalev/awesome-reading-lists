@@ -8,5 +8,6 @@
 - Jason Evanish: https://jasonevanish.com/books
 - Josh Kaufman: https://personalmba.com/best-business-books
 - Nat Eliason: https://www.nateliason.com/notes
+- Radek Pietruszewski: http://radex.io/books
 - Rakhim Davletkaliyev: https://rakhim.org/bookshelf
 - Warren Buffett: [Warren Buffett Book List](/lists/warren_buffett.md)
