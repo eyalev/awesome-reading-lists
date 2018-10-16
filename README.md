@@ -11,5 +11,6 @@
 - Patrick Collison: https://patrickcollison.com/bookshelf
 - Radek Pietruszewski: http://radex.io/books
 - Rakhim Davletkaliyev: https://rakhim.org/bookshelf
+- Ryan Holiday: https://ryanholiday.net/reading-list/
 - Shane Parrish: https://fs.blog/reading
 - Warren Buffett: [Warren Buffett Book List](/lists/warren_buffett.md)
