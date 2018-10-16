@@ -1,5 +1,7 @@
 
-# Awesome Book Lists
+# Reading Lists
+
+Books reading lists from around the web and also curated lists from this repo.
 
 - Alexey Migutsky: https://github.com/mr-mig/booklist
 - Bill Gates: https://www.gatesnotes.com/Books#BooksRead
