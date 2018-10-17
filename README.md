@@ -10,6 +10,7 @@ Books reading lists from around the web and also curated lists from this repo.
 - Jason Evanish: https://jasonevanish.com/books
 - Josh Kaufman: https://personalmba.com/best-business-books
 - Nat Eliason: https://www.nateliason.com/notes
+- Pamela Fox: http://www.pamelafox.org/readinglist
 - Patrick Collison: https://patrickcollison.com/bookshelf
 - Radek Pietruszewski: http://radex.io/books
 - Rakhim Davletkaliyev: https://rakhim.org/bookshelf
