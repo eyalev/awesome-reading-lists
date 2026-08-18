@@ -2,7 +2,7 @@
 
 Buffett doesn't maintain a public reading list, but he has recommended books for decades in Berkshire Hathaway shareholder letters, annual meetings and interviews. This list collects the recurring recommendations.
 
-Primary source: [Berkshire Hathaway shareholder letters](https://www.berkshirehathaway.com/letters/letters.html).
+Primary source: [Berkshire Hathaway shareholder letters ↗](https://www.berkshirehathaway.com/letters/letters.html).
 
 ## Investing
 

@@ -20,9 +20,10 @@ Thanks for wanting to make this list better! Pull requests for new entries, fixe
 Add entries to the fitting section, keeping **alphabetical order** (by first name for people):
 
 ```markdown
-- [Person or Site Name](https://example.com/books) - One short sentence saying what makes this list worth reading.
+- [Person or Site Name ↗](https://example.com/books) - One short sentence saying what makes this list worth reading.
 ```
 
+- External links get a ` ↗` at the end of the link text; links to files inside this repo (like the curated lists) don't.
 - Descriptions start with a capital letter and end with a period.
 - Prefer `https://` and link directly to the reading-list page, not the site's homepage.
 - Check that the link actually loads before submitting (CI runs a link check too).
