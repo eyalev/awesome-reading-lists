@@ -6,7 +6,7 @@ Books reading lists from around the web and also curated lists from this repo.
 - Alexey Migutsky: https://github.com/mr-mig/booklist
 - Bill Gates: https://www.gatesnotes.com/Books#BooksRead
 - Derek Sivers: https://sivers.org/book
-- Gordon Brander: http://gordonbrander.com/lib
+- Gordon Brander: https://gordonbrander.com/
 - Jason Evanish: https://jasonevanish.com/books
 - Josh Kaufman: https://personalmba.com/best-business-books
 - Nat Eliason: https://www.nateliason.com/notes
