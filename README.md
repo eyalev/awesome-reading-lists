@@ -72,6 +72,7 @@ Want to curate a list for someone who doesn't maintain their own? [Contributions
 - [Read This Twice ↗](https://www.readthistwice.com/) - Search any public figure and see the books they've recommended, with sources.
 - [readsfrom ↗](https://readsfrom.kapps.dev) - Book recommendations traced back to the public post where they were made.
 - [The Greatest Books ↗](https://thegreatestbooks.org/) - A meta-list generated from hundreds of "best books" lists.
+- [Wonderhum ↗](https://wonderhum.com/books/) - Books mentioned on 60+ podcasts and shows, each mention quoted word for word with its timestamp.
 
 ## Publishers
 
